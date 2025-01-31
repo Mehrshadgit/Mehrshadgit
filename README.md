@@ -1,5 +1,5 @@
 ## Hi there. 
-I'm New to GitHub. and learning.
+I'm new to GitHub. And learning.
 
 <!--
 **Mehrshadgit/Mehrshadgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
